@@ -62,7 +62,7 @@ class Edit extends React.Component {
         return (
             <div className="card">
                 <div className="card-header">
-                    <h5 className="card-title">Add New To Do</h5>
+                    <h5 className="card-title">Edit To Do</h5>
                 </div>
                 <div className="card-body">
                     <form onSubmit={ this.updateToDo }>
